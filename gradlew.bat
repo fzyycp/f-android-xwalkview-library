@@ -33,7 +33,7 @@ goto fail
 
 :findJavaFromJavaHome
 @rem set JAVA_HOME=%JAVA_HOME:"=%
-set JAVA_HOME=C:/dev/jdk1.8.0_91
+set JAVA_HOME=D:\dev\jdk1.8.0_91
 set JAVA_EXE=%JAVA_HOME%/bin/java.exe
 
 if exist "%JAVA_EXE%" goto init

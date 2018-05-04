@@ -33,7 +33,7 @@ publish {
     bintrayUser = BINTRAY_USER
     bintrayKey = BINTRAY_KEY
     dryRun = false
-    groupId = 'cn.faury.android.library.xwalkview'//jcenter上的路径
+    groupId = 'cn.faury.android.library'//jcenter上的路径
     artifactId = 'f-android-xwalkview-library'//项目名称
     publishVersion = '23.53.589.4'//版本号
     desc = 'this is an andriod xwalk webview library'//描述，不重要
